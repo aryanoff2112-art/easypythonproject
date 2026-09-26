@@ -54,7 +54,7 @@ Generate strong and secure passwords with customizable options.
 
 **Features**
 - Adjustable password length
-- Letters, numbers, and symbols
+- Letters, numbers, and symbols(special characters)
 - Strong password generation
 - Easy-to-use interface
 
