@@ -112,7 +112,7 @@ A classic Rock-Paper-Scissors game against the computer.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-projects.git
+git clone https://github.com/aryanoff2112-art/python-projects.git
 ```
 
 ### Navigate to the Project
